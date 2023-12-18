@@ -1,4 +1,4 @@
-<style>
-#red{color:red}
-</style>
-<h1 id="red">這是紅色的字</h1>
+<h1 id="red">這是黑色的字</h1>
+
+<p>這是一個GIT上課測試專案</p>
+<p>這是第二段</p>
